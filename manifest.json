@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Amazon Review Variance",
+  "version": "1.0",
+  "description": "Amazonの書籍レビュー評価のばらつき（標準偏差）を計算して表示します",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.amazon.co.jp/*",
+        "https://www.amazon.com/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
