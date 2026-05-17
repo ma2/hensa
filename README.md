@@ -9,7 +9,7 @@ Amazon のレビュー星分布から**標準偏差**（評価のばらつき）
 - 「評価が一致している」「賛否が大きく分かれる」など4段階でばらつきを可視化
 - 平均評価も5段階で表示
 
-![ウィジェット例](https://raw.githubusercontent.com/ma2/hensa/main/image.png)
+![ウィジェット例](./image.png)
 
 ## インストール
 
