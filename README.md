@@ -1,6 +1,7 @@
 # hensa（偏差）
 
 Amazon のレビュー星分布から**標準偏差**（評価のばらつき）を計算して、商品ページに表示する Chrome 拡張です。
+単なる評価の高低だけでなく、賛否両論の度合いも知りたいと思い作りました。
 
 ## できること
 
@@ -8,7 +9,7 @@ Amazon のレビュー星分布から**標準偏差**（評価のばらつき）
 - 「評価が一致している」「賛否が大きく分かれる」など4段階でばらつきを可視化
 - 平均評価も5段階で表示
 
-![ウィジェット例](https://raw.githubusercontent.com/ma2/hensa/main/screenshot.png)
+![ウィジェット例](https://raw.githubusercontent.com/ma2/hensa/main/image.png)
 
 ## インストール
 
